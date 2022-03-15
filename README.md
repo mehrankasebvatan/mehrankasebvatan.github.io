@@ -6,3 +6,6 @@ My Personal Blog
 
 *click below*
 %md <a href:"https://mehrankasebvatan.github.io/fa" target:_blank>link</a>
+
+
+%md <a href="https://google.com" target="_blank">google link</a>
