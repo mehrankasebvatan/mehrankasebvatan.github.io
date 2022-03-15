@@ -1,4 +1,4 @@
 My Personal Blog
 
 #See this project Here:
-[https://mehrankasebvatan.github.io/fa/](https://mehrankasebvatan.github.io/fa/?target="_blank"){:target="_blank"}
+[https://mehrankasebvatan.github.io/fa/](https://mehrankasebvatan.github.io/fa/?target=_blank)
